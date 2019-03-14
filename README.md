@@ -28,3 +28,24 @@ You can add images by simply adding the image block and then upload or select th
 If you want to text and image next to each other, then you can use the ‘Media & Text’ block. This block helps you wrap text around the image in WordPress.
 
 ![media and text](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/mediaandtext.png)
+
+
+WordPress editor also comes with a Gallery block that you can use to display images in rows and columns with a grid layout.
+
+Simply add the Gallery block and then upload or select the images from your WordPress media library.
+
+![add gallery block](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/addgalleryblock.png)
+
+# How to Embed Video
+
+Want to embed a video in your content? No problem.
+
+The default WordPress editor comes with embed blocks for all popular providers.
+
+![embed blocks](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/embedblocks.png)
+
+You can also just copy and paste the video URL to a paragraph block, and WordPress will automatically convert it into a video embed block.
+
+![ytembedinwp](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/ytembedinwp.jpg)
+
+
