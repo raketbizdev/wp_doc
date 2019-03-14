@@ -1,5 +1,23 @@
 # WP RaketHost Documentations
 
+# How To Login
+
+Loging to Wordpress is easy
+
+All you have to do is type 
+```
+# Replace yourdomain.com with actual domain name
+https://www.yourdomain.com/wp-admin
+
+# Or
+https://www.yourdomain.com/wp-login.php
+
+```
+![login](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/login.png)
+
+
+
+
 ## Creating a New Post in WordPress Using The Default Editor
 In December 2018, WordPress introduced a new modern block-based editor also known as Gutenberg. It is clean and simple, but don’t let the looks deceive you.
 
@@ -145,7 +163,7 @@ WordPress allows you to show and hide panels from the edit screen. You can do so
 
 This will bring up a popup where you can check or uncheck the panels.
 
-![screenoptions](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/selectpanels.jpg)
+![selectpanels](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/selectpanels.jpg)
 
 
 
