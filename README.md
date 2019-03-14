@@ -104,6 +104,54 @@ WordPress comes with a built-in commenting system that allow users to leave comm
 
 ![commentsettings](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/commentsettings.jpg)
 
+You’ll also see the option to allow pingbacks and trackbacks. These allow you and other blogs to notify each other when they link to an article.
+
+However, it is mostly used for spam, so we recommend completely disabling pingbacks and trackbacks.
+
+## Publishing Options
+
+The default WordPress edit screen is divided into two columns. The left column is where you write content, and the right column has all post settings including publishing options.
+
+Let’s take a look at publishing options in the right column.
+
+![publishoptions](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/publishoptions.png)
+
+1. Save draft link allows you to quickly save changes you made to a WordPress post. The editor will also automatically save your changes as you write.
+
+2. The preview button will open a live preview of your post or page in a new browser tab.
+
+3. Once you are done editing your post, you can click on the Publish button to make your post go live.
+
+4. WordPress gives you a few options to control the visibility of your post. The default option is ‘Public’ but clicking on it will show you options to make a post private or password protected.
+
+![visibilityoptions](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/visibilityoptions.jpg)
+
+5. WordPress also allows you to control when a post is published. The default option is to publish immediately, but you can also schedule your posts to publish later or even select a past date.
+
+![publishdate](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/publishdate.jpg)
+
+
+6. Checking the box next to ‘Stick to front page’ will make a post sticky or featured. This makes the specific post appear on top of other posts. Learn more about sticky posts and what you can do with them.
+
+7. Pending review option will add a custom status next to your post as ‘Pending review’. This feature is particularly helpful on multi-author blogs where contributors can just save posts and not publish them.
+
+8. If you want to delete a post, then you can click on ‘Move to trash’ button. WordPress will send the post to trash. Deleted posts will remain in the trash folder for upto 30 days. After that, they will be deleted permanently.
+
+## Edit Screen Options
+
+WordPress allows you to show and hide panels from the edit screen. You can do so by clicking on the three-dot menu at the top-right corner of the screen and then clicking on the ‘Options’ button.
+
+![screenoptions](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/screenoptions.jpg)
+
+This will bring up a popup where you can check or uncheck the panels.
+
+![screenoptions](https://raw.githubusercontent.com/rakethostph/wp_doc/master/img/selectpanels.jpg)
+
+
+
+
+
+
 
 
 
